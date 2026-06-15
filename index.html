@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>My Web Site Gallery</title>
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <div>
+          <p class="site-header__subtitle">GitHub Pages / Portfolio</p>
+          <h1>My Web Site Gallery</h1>
+        </div>
+      </div>
+    </header>
+
+    <main class="gallery-shell">
+      <section class="gallery-heading" aria-labelledby="gallery-title">
+        <div>
+          <p class="gallery-heading__eyebrow">Website Works</p>
+          <h2 id="gallery-title">Published Sites</h2>
+        </div>
+        <p class="site-count" id="site-count" aria-live="polite">0 Sites</p>
+      </section>
+
+      <section class="gallery-panel" aria-label="GitHub Pages site list">
+        <div class="gallery-grid" id="gallery-grid"></div>
+        <p class="empty-state" id="empty-state" hidden>表示できるサイトがありません</p>
+      </section>
+    </main>
+
+    <template id="site-card-template">
+      <article class="site-card">
+        <figure class="site-card__media">
+          <a class="thumbnail-button" target="_blank" rel="noopener noreferrer">
+            <img alt="" loading="lazy" />
+            <div class="thumbnail-placeholder" aria-hidden="true">
+              <span>No Image</span>
+            </div>
+            <span class="thumbnail-button__label">トップページを見る</span>
+          </a>
+        </figure>
+        <div class="site-card__body">
+          <div class="site-card__meta">
+            <time></time>
+          </div>
+          <h3></h3>
+          <p class="site-card__description"></p>
+          <div class="site-card__actions">
+            <a class="button button--primary" target="_blank" rel="noopener noreferrer">トップページを見る</a>
+            <a class="button button--secondary" target="_blank" rel="noopener noreferrer">GitHubを見る</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./assets/js/app.js" defer></script>
+  </body>
+</html>
