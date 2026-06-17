@@ -41,11 +41,15 @@ function renderSite(site) {
 }
 
 fetch("./data/sites.json")
-  .then((response) => response.json())
+  .then((response) => {
+    if (!response.ok) throw new Error(`Failed to load sites: ${response.status}`);
+    return response.json();
+  })
   .then((sites) => {
     const sorted = [...sites].sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
     siteCount.textContent = `${sorted.length} Sites`;
     emptyState.hidden = sorted.length !== 0;
+    grid.replaceChildren();
     sorted.forEach(renderSite);
   })
   .catch(() => {
