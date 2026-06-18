@@ -1,10 +1,19 @@
 [
   {
+    "title": "飲み会で信用を落とさない",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/nomikai-de-shinyo-wo-otosanai/",
+    "repoUrl": "https://github.com/TKG-afk/nomikai-de-shinyo-wo-otosanai",
+    "thumbnail": "./images/pages/01-nomikai-de-shinyo-wo-otosanai.png",
+    "createdAt": "2026-06-18T04:13:05Z",
+    "tags": []
+  },
+  {
     "title": "人間面接とAI面接 評価はなぜ違うのか？",
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka/",
     "repoUrl": "https://github.com/TKG-afk/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka",
-    "thumbnail": "./images/pages/01-ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka.png",
+    "thumbnail": "./images/pages/02-ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka.png",
     "createdAt": "2026-06-18T03:28:18Z",
     "tags": []
   },
@@ -13,7 +22,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru/",
     "repoUrl": "https://github.com/TKG-afk/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru",
-    "thumbnail": "./images/pages/02-jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru.png",
+    "thumbnail": "./images/pages/03-jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru.png",
     "createdAt": "2026-06-17T01:48:32Z",
     "tags": []
   },
@@ -22,7 +31,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite/",
     "repoUrl": "https://github.com/TKG-afk/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite",
-    "thumbnail": "./images/pages/03-potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite.png",
+    "thumbnail": "./images/pages/04-potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite.png",
     "createdAt": "2026-06-15T08:57:33Z",
     "tags": []
   },
@@ -31,7 +40,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/my-web-site-gallery/",
     "repoUrl": "https://github.com/TKG-afk/my-web-site-gallery",
-    "thumbnail": "./images/pages/04-my-web-site-gallery.png",
+    "thumbnail": "./images/pages/05-my-web-site-gallery.png",
     "createdAt": "2026-06-15T00:40:45Z",
     "tags": []
   },
@@ -40,7 +49,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/mensetsu-taisaku-ai-mensetsu-ni-charenji/",
     "repoUrl": "https://github.com/TKG-afk/mensetsu-taisaku-ai-mensetsu-ni-charenji",
-    "thumbnail": "./images/pages/05-mensetsu-taisaku-ai-mensetsu-ni-charenji.png",
+    "thumbnail": "./images/pages/06-mensetsu-taisaku-ai-mensetsu-ni-charenji.png",
     "createdAt": "2026-06-11T04:17:12Z",
     "tags": []
   },
@@ -49,7 +58,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point/",
     "repoUrl": "https://github.com/TKG-afk/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point",
-    "thumbnail": "./images/pages/06-godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point.png",
+    "thumbnail": "./images/pages/07-godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point.png",
     "createdAt": "2026-06-10T23:59:58Z",
     "tags": []
   },
@@ -58,7 +67,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/zbrush-seibutsu-no-hifu-hyogen/",
     "repoUrl": "https://github.com/TKG-afk/zbrush-seibutsu-no-hifu-hyogen",
-    "thumbnail": "./images/pages/07-zbrush-seibutsu-no-hifu-hyogen.png",
+    "thumbnail": "./images/pages/08-zbrush-seibutsu-no-hifu-hyogen.png",
     "createdAt": "2026-06-10T23:39:13Z",
     "tags": []
   },
@@ -67,7 +76,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/moderingu-no-tame-no-kansatsu-kadai/",
     "repoUrl": "https://github.com/TKG-afk/moderingu-no-tame-no-kansatsu-kadai",
-    "thumbnail": "./images/pages/08-moderingu-no-tame-no-kansatsu-kadai.png",
+    "thumbnail": "./images/pages/09-moderingu-no-tame-no-kansatsu-kadai.png",
     "createdAt": "2026-06-09T10:55:49Z",
     "tags": []
   },
@@ -76,7 +85,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/dai-ni-sho-reiauto-ni-tsuite/",
     "repoUrl": "https://github.com/TKG-afk/dai-ni-sho-reiauto-ni-tsuite",
-    "thumbnail": "./images/pages/09-dai-ni-sho-reiauto-ni-tsuite.png",
+    "thumbnail": "./images/pages/10-dai-ni-sho-reiauto-ni-tsuite.png",
     "createdAt": "2026-06-08T23:53:24Z",
     "tags": []
   },
@@ -85,7 +94,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/2026nen-6gatsu-8nichi-shushoku-2/",
     "repoUrl": "https://github.com/TKG-afk/2026nen-6gatsu-8nichi-shushoku-2",
-    "thumbnail": "./images/pages/10-2026nen-6gatsu-8nichi-shushoku-2.png",
+    "thumbnail": "./images/pages/11-2026nen-6gatsu-8nichi-shushoku-2.png",
     "createdAt": "2026-06-08T01:53:50Z",
     "tags": []
   },
@@ -94,7 +103,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/cab-ango-futsu-20pun-doriru/",
     "repoUrl": "https://github.com/TKG-afk/cab-ango-futsu-20pun-doriru",
-    "thumbnail": "./images/pages/11-cab-ango-futsu-20pun-doriru.png",
+    "thumbnail": "./images/pages/12-cab-ango-futsu-20pun-doriru.png",
     "createdAt": "2026-06-03T07:41:09Z",
     "tags": []
   },
@@ -103,7 +112,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/kokusairikou_tachiki/",
     "repoUrl": "https://github.com/TKG-afk/kokusairikou_tachiki",
-    "thumbnail": "./images/pages/12-kokusairikou_tachiki.png",
+    "thumbnail": "./images/pages/13-kokusairikou_tachiki.png",
     "createdAt": "2026-06-01T10:20:38Z",
     "tags": []
   },
@@ -112,7 +121,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/cab-meireihyou-futsuu-15pun-doriru/",
     "repoUrl": "https://github.com/TKG-afk/cab-meireihyou-futsuu-15pun-doriru",
-    "thumbnail": "./images/pages/13-cab-meireihyou-futsuu-15pun-doriru.png",
+    "thumbnail": "./images/pages/14-cab-meireihyou-futsuu-15pun-doriru.png",
     "createdAt": "2026-06-01T01:28:42Z",
     "tags": []
   },
@@ -121,7 +130,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/cab-hosokusei-futsuu-10pun-doriru/",
     "repoUrl": "https://github.com/TKG-afk/cab-hosokusei-futsuu-10pun-doriru",
-    "thumbnail": "./images/pages/14-cab-hosokusei-futsuu-10pun-doriru.png",
+    "thumbnail": "./images/pages/15-cab-hosokusei-futsuu-10pun-doriru.png",
     "createdAt": "2026-05-28T04:52:48Z",
     "tags": []
   },
@@ -130,7 +139,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/cab-anzan-futsuu-10pun-doriru/",
     "repoUrl": "https://github.com/TKG-afk/cab-anzan-futsuu-10pun-doriru",
-    "thumbnail": "./images/pages/15-cab-anzan-futsuu-10pun-doriru.png",
+    "thumbnail": "./images/pages/16-cab-anzan-futsuu-10pun-doriru.png",
     "createdAt": "2026-05-28T04:10:19Z",
     "tags": []
   },
@@ -139,7 +148,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/ichiji-mensetsu-saishu-mensetsu-no-chigai/",
     "repoUrl": "https://github.com/TKG-afk/ichiji-mensetsu-saishu-mensetsu-no-chigai",
-    "thumbnail": "./images/pages/16-ichiji-mensetsu-saishu-mensetsu-no-chigai.png",
+    "thumbnail": "./images/pages/17-ichiji-mensetsu-saishu-mensetsu-no-chigai.png",
     "createdAt": "2026-05-28T03:20:47Z",
     "tags": []
   },
@@ -148,7 +157,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei/",
     "repoUrl": "https://github.com/TKG-afk/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei",
-    "thumbnail": "./images/pages/17-shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei.png",
+    "thumbnail": "./images/pages/18-shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei.png",
     "createdAt": "2026-05-27T00:37:08Z",
     "tags": []
   },
@@ -157,7 +166,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/beiku-mae-junbi-to-bake-mesh-maps/",
     "repoUrl": "https://github.com/TKG-afk/beiku-mae-junbi-to-bake-mesh-maps",
-    "thumbnail": "./images/pages/18-beiku-mae-junbi-to-bake-mesh-maps.png",
+    "thumbnail": "./images/pages/19-beiku-mae-junbi-to-bake-mesh-maps.png",
     "createdAt": "2026-05-27T00:23:36Z",
     "tags": []
   },
@@ -166,7 +175,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/painter-tonyu-mae-moderu-junbi-chekku/",
     "repoUrl": "https://github.com/TKG-afk/painter-tonyu-mae-moderu-junbi-chekku",
-    "thumbnail": "./images/pages/19-painter-tonyu-mae-moderu-junbi-chekku.png",
+    "thumbnail": "./images/pages/20-painter-tonyu-mae-moderu-junbi-chekku.png",
     "createdAt": "2026-05-26T09:04:48Z",
     "tags": []
   },
@@ -175,7 +184,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu/",
     "repoUrl": "https://github.com/TKG-afk/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu",
-    "thumbnail": "./images/pages/20-potoforio-wa-sakuhin-o-tsutaeru-sekkeizu.png",
+    "thumbnail": "./images/pages/21-potoforio-wa-sakuhin-o-tsutaeru-sekkeizu.png",
     "createdAt": "2026-05-26T01:20:17Z",
     "tags": []
   },
@@ -184,7 +193,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/spi-gengo-it-hyojun-15fun-drill/",
     "repoUrl": "https://github.com/TKG-afk/spi-gengo-it-hyojun-15fun-drill",
-    "thumbnail": "./images/pages/21-spi-gengo-it-hyojun-15fun-drill.png",
+    "thumbnail": "./images/pages/22-spi-gengo-it-hyojun-15fun-drill.png",
     "createdAt": "2026-05-25T01:58:24Z",
     "tags": []
   },
@@ -193,7 +202,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku/",
     "repoUrl": "https://github.com/TKG-afk/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku",
-    "thumbnail": "./images/pages/22-27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku.png",
+    "thumbnail": "./images/pages/23-27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku.png",
     "createdAt": "2026-05-25T01:42:04Z",
     "tags": []
   },
@@ -202,7 +211,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/mensetsu-rorupurei-chekku-shito/",
     "repoUrl": "https://github.com/TKG-afk/mensetsu-rorupurei-chekku-shito",
-    "thumbnail": "./images/pages/23-mensetsu-rorupurei-chekku-shito.png",
+    "thumbnail": "./images/pages/24-mensetsu-rorupurei-chekku-shito.png",
     "createdAt": "2026-05-21T05:09:05Z",
     "tags": []
   },
@@ -211,7 +220,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/spi-higengo-20pun-jissen-drill/",
     "repoUrl": "https://github.com/TKG-afk/spi-higengo-20pun-jissen-drill",
-    "thumbnail": "./images/pages/24-spi-higengo-20pun-jissen-drill.png",
+    "thumbnail": "./images/pages/25-spi-higengo-20pun-jissen-drill.png",
     "createdAt": "2026-05-21T03:38:25Z",
     "tags": []
   },
@@ -220,7 +229,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/gemu-kurieita-shibosha-no-tame-no-potoforio-koza/",
     "repoUrl": "https://github.com/TKG-afk/gemu-kurieita-shibosha-no-tame-no-potoforio-koza",
-    "thumbnail": "./images/pages/25-gemu-kurieita-shibosha-no-tame-no-potoforio-koza.png",
+    "thumbnail": "./images/pages/26-gemu-kurieita-shibosha-no-tame-no-potoforio-koza.png",
     "createdAt": "2026-05-21T01:52:23Z",
     "tags": []
   },
@@ -229,7 +238,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/ryosen-de-rittai-wa-kimaru/",
     "repoUrl": "https://github.com/TKG-afk/ryosen-de-rittai-wa-kimaru",
-    "thumbnail": "./images/pages/26-ryosen-de-rittai-wa-kimaru.png",
+    "thumbnail": "./images/pages/27-ryosen-de-rittai-wa-kimaru.png",
     "createdAt": "2026-05-20T23:48:48Z",
     "tags": []
   },
@@ -238,7 +247,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e/",
     "repoUrl": "https://github.com/TKG-afk/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e",
-    "thumbnail": "./images/pages/27-hajimete-steam-de-geemu-wo-ririsu-suru-hito-e.png",
+    "thumbnail": "./images/pages/28-hajimete-steam-de-geemu-wo-ririsu-suru-hito-e.png",
     "createdAt": "2026-05-19T05:23:36Z",
     "tags": []
   },
@@ -247,7 +256,7 @@
     "description": "SPI personality diagnosis site published with GitHub Pages.",
     "url": "https://tkg-afk.github.io/spi-seikaku-shindan-20pun-serufu-chekku/",
     "repoUrl": "https://github.com/TKG-afk/spi-seikaku-shindan-20pun-serufu-chekku",
-    "thumbnail": "./images/pages/28-spi-seikaku-shindan-20pun-serufu-chekku.png",
+    "thumbnail": "./images/pages/29-spi-seikaku-shindan-20pun-serufu-chekku.png",
     "createdAt": "2026-05-14T05:15:52Z",
     "tags": []
   },
@@ -256,7 +265,7 @@
     "description": "SPI language practice site published with GitHub Pages.",
     "url": "https://tkg-afk.github.io/spi-gengo-shoshinsha-15fun-shindan/",
     "repoUrl": "https://github.com/TKG-afk/spi-gengo-shoshinsha-15fun-shindan",
-    "thumbnail": "./images/pages/29-spi-gengo-shoshinsha-15fun-shindan.png",
+    "thumbnail": "./images/pages/30-spi-gengo-shoshinsha-15fun-shindan.png",
     "createdAt": "2026-05-14T05:06:17Z",
     "tags": []
   },
@@ -265,7 +274,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/it-gyokai-shukatsu-shiken-taisaku-gaido/",
     "repoUrl": "https://github.com/TKG-afk/it-gyokai-shukatsu-shiken-taisaku-gaido",
-    "thumbnail": "./images/pages/30-it-gyokai-shukatsu-shiken-taisaku-gaido.png",
+    "thumbnail": "./images/pages/31-it-gyokai-shukatsu-shiken-taisaku-gaido.png",
     "createdAt": "2026-05-14T03:47:42Z",
     "tags": []
   },
@@ -274,7 +283,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke/",
     "repoUrl": "https://github.com/TKG-afk/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke",
-    "thumbnail": "./images/pages/31-chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke.png",
+    "thumbnail": "./images/pages/32-chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke.png",
     "createdAt": "2026-05-14T00:10:32Z",
     "tags": []
   },
@@ -283,7 +292,7 @@
     "description": "GitHub Pages site",
     "url": "https://tkg-afk.github.io/mensetsu-chekku-rorupurei/",
     "repoUrl": "https://github.com/TKG-afk/mensetsu-chekku-rorupurei",
-    "thumbnail": "./images/pages/32-mensetsu-chekku-rorupurei.png",
+    "thumbnail": "./images/pages/33-mensetsu-chekku-rorupurei.png",
     "createdAt": "2026-05-07T04:40:37Z",
     "tags": []
   }
