@@ -1,5 +1,16 @@
 [
     {
+        "title":  "『めっちゃカメレオン』はなぜ売れたのか？",
+        "description":  "専門学校ゲームクリエイター科向け授業スライド：『めっちゃカメレオン』から学ぶコア体験と学生ゲーム制作",
+        "url":  "https://tkg-afk.github.io/meccha-kamereon-wa-naze-ureta-no-ka/",
+        "repoUrl":  "https://github.com/TKG-afk/meccha-kamereon-wa-naze-ureta-no-ka",
+        "thumbnail":  "./images/pages/meccha-kamereon-wa-naze-ureta-no-ka.png",
+        "createdAt":  "2026-06-30T05:00:42Z",
+        "tags":  [
+
+                 ]
+    },
+    {
         "title":  "いまさら聞けない 企業説明会に行くべき理由",
         "description":  "専門学校4年生向け「企業説明会に行くべき理由」授業用Webスライド",
         "url":  "https://tkg-afk.github.io/imasara-kikenai-kigyo-setsumeikai-ni-iku-beki-riyu/",
@@ -166,7 +177,7 @@
     },
     {
         "title":  "CAB暗号 普通20分ドリル",
-        "description":  "GitHub Pages site",
+        "description":  "IT・SE向けCAB適性試験の暗号分野を、普通レベル39問・20分で練習できる試験対策Webサイト。",
         "url":  "https://tkg-afk.github.io/cab-ango-futsu-20pun-doriru/",
         "repoUrl":  "https://github.com/TKG-afk/cab-ango-futsu-20pun-doriru",
         "thumbnail":  "./images/pages/cab-ango-futsu-20pun-doriru.png",
@@ -188,7 +199,7 @@
     },
     {
         "title":  "CAB命令表 普通15分ドリル",
-        "description":  "GitHub Pages site",
+        "description":  "IT・SE向けCAB適性試験の命令表分野を、普通レベル36問・15分で練習できる試験対策Webサイト。",
         "url":  "https://tkg-afk.github.io/cab-meireihyou-futsuu-15pun-doriru/",
         "repoUrl":  "https://github.com/TKG-afk/cab-meireihyou-futsuu-15pun-doriru",
         "thumbnail":  "./images/pages/cab-meireihyou-futsuu-15pun-doriru.png",
@@ -199,7 +210,7 @@
     },
     {
         "title":  "CAB法則性 普通〜少し難しい15分ドリル",
-        "description":  "GitHub Pages site",
+        "description":  "IT・SE向けCAB適性試験の法則性分野を、普通〜少し難しいレベル40問・15分で練習できる試験対策Webサイト。",
         "url":  "https://tkg-afk.github.io/cab-hosokusei-futsuu-10pun-doriru/",
         "repoUrl":  "https://github.com/TKG-afk/cab-hosokusei-futsuu-10pun-doriru",
         "thumbnail":  "./images/pages/cab-hosokusei-futsuu-10pun-doriru.png",
@@ -210,7 +221,7 @@
     },
     {
         "title":  "CAB暗算 普通10分ドリル",
-        "description":  "GitHub Pages site",
+        "description":  "IT・SE向けCAB適性試験の暗算分野を、普通レベル50問・10分で練習できる試験対策Webサイト。",
         "url":  "https://tkg-afk.github.io/cab-anzan-futsuu-10pun-doriru/",
         "repoUrl":  "https://github.com/TKG-afk/cab-anzan-futsuu-10pun-doriru",
         "thumbnail":  "./images/pages/cab-anzan-futsuu-10pun-doriru.png",
@@ -276,7 +287,7 @@
     },
     {
         "title":  "SPI言語 IT標準15分ドリル",
-        "description":  "GitHub Pages site",
+        "description":  "IT系SPI試験で標準的な言語分野の長文読解、語句・熟語、空欄補充、文の並び替え、二語関係、文法を40問で練習できる試験対策Webサイト。",
         "url":  "https://tkg-afk.github.io/spi-gengo-it-hyojun-15fun-drill/",
         "repoUrl":  "https://github.com/TKG-afk/spi-gengo-it-hyojun-15fun-drill",
         "thumbnail":  "./images/pages/spi-gengo-it-hyojun-15fun-drill.png",
@@ -309,7 +320,7 @@
     },
     {
         "title":  "SPI非言語 20分実戦ドリル",
-        "description":  "GitHub Pages site",
+        "description":  "IT系SPI試験で標準的な非言語分野の推論・集合・割合・表読み取り・速度・損益・確率を20問で練習できる、正答率リザルトと問題ごとの解説付き試験対策Webサイト。",
         "url":  "https://tkg-afk.github.io/spi-higengo-20pun-jissen-drill/",
         "repoUrl":  "https://github.com/TKG-afk/spi-higengo-20pun-jissen-drill",
         "thumbnail":  "./images/pages/spi-higengo-20pun-jissen-drill.png",
@@ -353,7 +364,7 @@
     },
     {
         "title":  "SPI性格診断 20分セルフチェック",
-        "description":  "SPI personality diagnosis site published with GitHub Pages.",
+        "description":  "SPIの性格診断を想定した、約200問の性格傾向セルフチェック。ビジネス上の傾向、円グラフ、長所と弱点の面接想定質問と回答例を表示します。",
         "url":  "https://tkg-afk.github.io/spi-seikaku-shindan-20pun-serufu-chekku/",
         "repoUrl":  "https://github.com/TKG-afk/spi-seikaku-shindan-20pun-serufu-chekku",
         "thumbnail":  "./images/pages/spi-seikaku-shindan-20pun-serufu-chekku.png",
@@ -364,7 +375,7 @@
     },
     {
         "title":  "SPI言語 初心者15分診断",
-        "description":  "SPI language practice site published with GitHub Pages.",
+        "description":  "SPI言語分野の短時間演習、正答率リザルト、問題ごとの解説を備えた試験対策Webサイト。",
         "url":  "https://tkg-afk.github.io/spi-gengo-shoshinsha-15fun-shindan/",
         "repoUrl":  "https://github.com/TKG-afk/spi-gengo-shoshinsha-15fun-shindan",
         "thumbnail":  "./images/pages/spi-gengo-shoshinsha-15fun-shindan.png",
