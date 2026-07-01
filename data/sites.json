@@ -1,5 +1,16 @@
 [
     {
+        "title":  "AI時代のゲームクリエイターに求められる力",
+        "description":  "専門学校ゲームクリエイター科 4年制3年生向け授業用Webスライド",
+        "url":  "https://tkg-afk.github.io/ai-jidai-no-game-kurieita-ni-motomerareru-chikara/",
+        "repoUrl":  "https://github.com/TKG-afk/ai-jidai-no-game-kurieita-ni-motomerareru-chikara",
+        "thumbnail":  "./images/pages/ai-jidai-no-game-kurieita-ni-motomerareru-chikara.png",
+        "createdAt":  "2026-07-01T00:31:16Z",
+        "tags":  [
+
+                 ]
+    },
+    {
         "title":  "『めっちゃカメレオン』はなぜ売れたのか？",
         "description":  "専門学校ゲームクリエイター科向け授業スライド：『めっちゃカメレオン』から学ぶコア体験と学生ゲーム制作",
         "url":  "https://tkg-afk.github.io/meccha-kamereon-wa-naze-ureta-no-ka/",
