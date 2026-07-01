@@ -1,5 +1,18 @@
 [
     {
+        "title": "ポートフォリオのための3Dライティング",
+        "description": "ゲームクリエイター科向け。作品の形・質感・世界観を魅力的に伝える3Dライティング授業用Webスライド。",
+        "url": "https://tkg-afk.github.io/portfolio-no-tame-no-3d-lighting/",
+        "repoUrl": "https://github.com/TKG-afk/portfolio-no-tame-no-3d-lighting",
+        "thumbnail": "./images/pages/portfolio-no-tame-no-3d-lighting.png",
+        "createdAt": "2026-07-01T05:07:30Z",
+        "tags": [
+            "3DCG",
+            "portfolio",
+            "lighting"
+        ]
+    },
+    {
         "title":  "AI時代のゲームクリエイターに求められる力",
         "description":  "専門学校ゲームクリエイター科 4年制3年生向け授業用Webスライド",
         "url":  "https://tkg-afk.github.io/ai-jidai-no-game-kurieita-ni-motomerareru-chikara/",
