@@ -1,5 +1,18 @@
 [
     {
+        "title": "ニュースを「自分の行動」に変える",
+        "description": "専門学校4年生向け。就活情報を応募・ES・ポートフォリオ・面接練習へ変える授業用WEBスライド。",
+        "url": "https://tkg-afk.github.io/nyusu-o-jibun-no-kodo-ni-kaeru/",
+        "repoUrl": "https://github.com/TKG-afk/nyusu-o-jibun-no-kodo-ni-kaeru",
+        "thumbnail": "./images/pages/nyusu-o-jibun-no-kodo-ni-kaeru.png",
+        "createdAt": "2026-07-02T06:29:28Z",
+        "tags": [
+            "就活",
+            "授業",
+            "WEBスライド"
+        ]
+    },
+    {
         "title": "ポートフォリオのための3Dライティング",
         "description": "ゲームクリエイター科向け。作品の形・質感・世界観を魅力的に伝える3Dライティング授業用Webスライド。",
         "url": "https://tkg-afk.github.io/portfolio-no-tame-no-3d-lighting/",
