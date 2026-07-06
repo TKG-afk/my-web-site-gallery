@@ -1,5 +1,18 @@
 [
     {
+        "title": "この夏、夢を「動ける目標」に変える",
+        "description": "専門学生・4年制4年生向け。夏休みに夢を具体的な目標と行動計画へ変える、就職対策授業用Webスライド。",
+        "url": "https://tkg-afk.github.io/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru/",
+        "repoUrl": "https://github.com/TKG-afk/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru",
+        "thumbnail": "./images/pages/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru.png",
+        "createdAt": "2026-07-06T01:09:09Z",
+        "tags": [
+            "就活",
+            "目標設定",
+            "WEBスライド"
+        ]
+    },
+    {
         "title": "ニュースを「自分の行動」に変える",
         "description": "専門学校4年生向け。就活情報を応募・ES・ポートフォリオ・面接練習へ変える授業用WEBスライド。",
         "url": "https://tkg-afk.github.io/nyusu-o-jibun-no-kodo-ni-kaeru/",
