@@ -1,483 +1,418 @@
 [
-    {
-        "title": "AKMグリップ制作課題",
-        "description": "Grip_lowのモデリング、UV展開、ハイモデル、フロートメッシュ、Substance Painterの質感設定までを確認する授業用Webスライド。",
-        "url": "https://tkg-afk.github.io/akm-grip-seisaku-kadai/",
-        "repoUrl": "https://github.com/TKG-afk/akm-grip-seisaku-kadai",
-        "thumbnail": "./images/pages/akm-grip-seisaku-kadai.png",
-        "createdAt": "2026-07-07T10:49:19Z",
-        "tags": [
-            "3DCG",
-            "Substance Painter",
-            "Webスライド"
-        ]
-    },
-    {
-        "title": "この夏、夢を「動ける目標」に変える",
-        "description": "専門学生・4年制4年生向け。夏休みに夢を具体的な目標と行動計画へ変える、就職対策授業用Webスライド。",
-        "url": "https://tkg-afk.github.io/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru/",
-        "repoUrl": "https://github.com/TKG-afk/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru",
-        "thumbnail": "./images/pages/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru.png",
-        "createdAt": "2026-07-06T01:09:09Z",
-        "tags": [
-            "就活",
-            "目標設定",
-            "WEBスライド"
-        ]
-    },
-    {
-        "title": "ニュースを「自分の行動」に変える",
-        "description": "専門学校4年生向け。就活情報を応募・ES・ポートフォリオ・面接練習へ変える授業用WEBスライド。",
-        "url": "https://tkg-afk.github.io/nyusu-o-jibun-no-kodo-ni-kaeru/",
-        "repoUrl": "https://github.com/TKG-afk/nyusu-o-jibun-no-kodo-ni-kaeru",
-        "thumbnail": "./images/pages/nyusu-o-jibun-no-kodo-ni-kaeru.png",
-        "createdAt": "2026-07-02T06:29:28Z",
-        "tags": [
-            "就活",
-            "授業",
-            "WEBスライド"
-        ]
-    },
-    {
-        "title": "ポートフォリオのための3Dライティング",
-        "description": "ゲームクリエイター科向け。作品の形・質感・世界観を魅力的に伝える3Dライティング授業用Webスライド。",
-        "url": "https://tkg-afk.github.io/portfolio-no-tame-no-3d-lighting/",
-        "repoUrl": "https://github.com/TKG-afk/portfolio-no-tame-no-3d-lighting",
-        "thumbnail": "./images/pages/portfolio-no-tame-no-3d-lighting.png",
-        "createdAt": "2026-07-01T05:07:30Z",
-        "tags": [
-            "3DCG",
-            "portfolio",
-            "lighting"
-        ]
-    },
-    {
-        "title":  "AI時代のゲームクリエイターに求められる力",
-        "description":  "専門学校ゲームクリエイター科 4年制3年生向け授業用Webスライド",
-        "url":  "https://tkg-afk.github.io/ai-jidai-no-game-kurieita-ni-motomerareru-chikara/",
-        "repoUrl":  "https://github.com/TKG-afk/ai-jidai-no-game-kurieita-ni-motomerareru-chikara",
-        "thumbnail":  "./images/pages/ai-jidai-no-game-kurieita-ni-motomerareru-chikara.png",
-        "createdAt":  "2026-07-01T00:31:16Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "『めっちゃカメレオン』はなぜ売れたのか？",
-        "description":  "専門学校ゲームクリエイター科向け授業スライド：『めっちゃカメレオン』から学ぶコア体験と学生ゲーム制作",
-        "url":  "https://tkg-afk.github.io/meccha-kamereon-wa-naze-ureta-no-ka/",
-        "repoUrl":  "https://github.com/TKG-afk/meccha-kamereon-wa-naze-ureta-no-ka",
-        "thumbnail":  "./images/pages/meccha-kamereon-wa-naze-ureta-no-ka.png",
-        "createdAt":  "2026-06-30T05:00:42Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "いまさら聞けない 企業説明会に行くべき理由",
-        "description":  "専門学校4年生向け「企業説明会に行くべき理由」授業用Webスライド",
-        "url":  "https://tkg-afk.github.io/imasara-kikenai-kigyo-setsumeikai-ni-iku-beki-riyu/",
-        "repoUrl":  "https://github.com/TKG-afk/imasara-kikenai-kigyo-setsumeikai-ni-iku-beki-riyu",
-        "thumbnail":  "./images/pages/imasara-kikenai-kigyo-setsumeikai-ni-iku-beki-riyu.png",
-        "createdAt":  "2026-06-29T05:07:14Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "就活は、すでに差がついている｜就職対策授業",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/shukatsu-wa-korekara-honban-dewa-naku-sudeni-sa-ga-tsuiteiru/",
-        "repoUrl":  "https://github.com/TKG-afk/shukatsu-wa-korekara-honban-dewa-naku-sudeni-sa-ga-tsuiteiru",
-        "thumbnail":  "./images/pages/shukatsu-wa-korekara-honban-dewa-naku-sudeni-sa-ga-tsuiteiru.png",
-        "createdAt":  "2026-06-29T01:54:13Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "オンライン就活で失敗しない 説明会・面談・面接の準備と行動",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/online-shukatsu-de-shippai-shinai/",
-        "repoUrl":  "https://github.com/TKG-afk/online-shukatsu-de-shippai-shinai",
-        "thumbnail":  "./images/pages/online-shukatsu-de-shippai-shinai.png",
-        "createdAt":  "2026-06-25T02:49:39Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "内定確保してから本気の就活へ",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/naitei-kakuho-shite-kara-honki-no-shukatsu-e/",
-        "repoUrl":  "https://github.com/TKG-afk/naitei-kakuho-shite-kara-honki-no-shukatsu-e",
-        "thumbnail":  "./images/pages/naitei-kakuho-shite-kara-honki-no-shukatsu-e.png",
-        "createdAt":  "2026-06-22T01:29:27Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "飲み会で信用を落とさない",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/nomikai-de-shinyo-wo-otosanai/",
-        "repoUrl":  "https://github.com/TKG-afk/nomikai-de-shinyo-wo-otosanai",
-        "thumbnail":  "./images/pages/nomikai-de-shinyo-wo-otosanai.png",
-        "createdAt":  "2026-06-18T04:13:05Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "人間面接とAI面接 評価はなぜ違うのか？",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka/",
-        "repoUrl":  "https://github.com/TKG-afk/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka",
-        "thumbnail":  "./images/pages/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka.png",
-        "createdAt":  "2026-06-18T03:28:18Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "自動生成＋手作業で、説得力のある質感に仕上げる",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru/",
-        "repoUrl":  "https://github.com/TKG-afk/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru",
-        "thumbnail":  "./images/pages/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru.png",
-        "createdAt":  "2026-06-17T01:48:32Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "ポートフォリオ制作 第三章 色彩について",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite/",
-        "repoUrl":  "https://github.com/TKG-afk/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite",
-        "thumbnail":  "./images/pages/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite.png",
-        "createdAt":  "2026-06-15T08:57:33Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "My Web Site Gallery",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/my-web-site-gallery/",
-        "repoUrl":  "https://github.com/TKG-afk/my-web-site-gallery",
-        "thumbnail":  "./images/pages/my-web-site-gallery.png",
-        "createdAt":  "2026-06-15T00:40:45Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "面接対策：AI面接にチャレンジ",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/mensetsu-taisaku-ai-mensetsu-ni-charenji/",
-        "repoUrl":  "https://github.com/TKG-afk/mensetsu-taisaku-ai-mensetsu-ni-charenji",
-        "thumbnail":  "./images/pages/mensetsu-taisaku-ai-mensetsu-ni-charenji.png",
-        "createdAt":  "2026-06-11T04:17:12Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "合同企業説明会に参加するときのポイント",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point/",
-        "repoUrl":  "https://github.com/TKG-afk/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point",
-        "thumbnail":  "./images/pages/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point.png",
-        "createdAt":  "2026-06-10T23:59:58Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "ZBrush 生物の皮膚表現",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/zbrush-seibutsu-no-hifu-hyogen/",
-        "repoUrl":  "https://github.com/TKG-afk/zbrush-seibutsu-no-hifu-hyogen",
-        "thumbnail":  "./images/pages/zbrush-seibutsu-no-hifu-hyogen.png",
-        "createdAt":  "2026-06-10T23:39:13Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "モデリングのための観察課題",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/moderingu-no-tame-no-kansatsu-kadai/",
-        "repoUrl":  "https://github.com/TKG-afk/moderingu-no-tame-no-kansatsu-kadai",
-        "thumbnail":  "./images/pages/moderingu-no-tame-no-kansatsu-kadai.png",
-        "createdAt":  "2026-06-09T10:55:49Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "第二章 レイアウトについて",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/dai-ni-sho-reiauto-ni-tsuite/",
-        "repoUrl":  "https://github.com/TKG-afk/dai-ni-sho-reiauto-ni-tsuite",
-        "thumbnail":  "./images/pages/dai-ni-sho-reiauto-ni-tsuite.png",
-        "createdAt":  "2026-06-08T23:53:24Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "2026年6月8日 就職2",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/2026nen-6gatsu-8nichi-shushoku-2/",
-        "repoUrl":  "https://github.com/TKG-afk/2026nen-6gatsu-8nichi-shushoku-2",
-        "thumbnail":  "./images/pages/2026nen-6gatsu-8nichi-shushoku-2.png",
-        "createdAt":  "2026-06-08T01:53:50Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "CAB暗号 普通20分ドリル",
-        "description":  "IT・SE向けCAB適性試験の暗号分野を、普通レベル39問・20分で練習できる試験対策Webサイト。",
-        "url":  "https://tkg-afk.github.io/cab-ango-futsu-20pun-doriru/",
-        "repoUrl":  "https://github.com/TKG-afk/cab-ango-futsu-20pun-doriru",
-        "thumbnail":  "./images/pages/cab-ango-futsu-20pun-doriru.png",
-        "createdAt":  "2026-06-03T07:41:09Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "112_tachiki_2",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/kokusairikou_tachiki/",
-        "repoUrl":  "https://github.com/TKG-afk/kokusairikou_tachiki",
-        "thumbnail":  "./images/pages/kokusairikou_tachiki.png",
-        "createdAt":  "2026-06-01T10:20:38Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "CAB命令表 普通15分ドリル",
-        "description":  "IT・SE向けCAB適性試験の命令表分野を、普通レベル36問・15分で練習できる試験対策Webサイト。",
-        "url":  "https://tkg-afk.github.io/cab-meireihyou-futsuu-15pun-doriru/",
-        "repoUrl":  "https://github.com/TKG-afk/cab-meireihyou-futsuu-15pun-doriru",
-        "thumbnail":  "./images/pages/cab-meireihyou-futsuu-15pun-doriru.png",
-        "createdAt":  "2026-06-01T01:28:42Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "CAB法則性 普通〜少し難しい15分ドリル",
-        "description":  "IT・SE向けCAB適性試験の法則性分野を、普通〜少し難しいレベル40問・15分で練習できる試験対策Webサイト。",
-        "url":  "https://tkg-afk.github.io/cab-hosokusei-futsuu-10pun-doriru/",
-        "repoUrl":  "https://github.com/TKG-afk/cab-hosokusei-futsuu-10pun-doriru",
-        "thumbnail":  "./images/pages/cab-hosokusei-futsuu-10pun-doriru.png",
-        "createdAt":  "2026-05-28T04:52:48Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "CAB暗算 普通10分ドリル",
-        "description":  "IT・SE向けCAB適性試験の暗算分野を、普通レベル50問・10分で練習できる試験対策Webサイト。",
-        "url":  "https://tkg-afk.github.io/cab-anzan-futsuu-10pun-doriru/",
-        "repoUrl":  "https://github.com/TKG-afk/cab-anzan-futsuu-10pun-doriru",
-        "thumbnail":  "./images/pages/cab-anzan-futsuu-10pun-doriru.png",
-        "createdAt":  "2026-05-28T04:10:19Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "一次面接・最終面接の違い",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/ichiji-mensetsu-saishu-mensetsu-no-chigai/",
-        "repoUrl":  "https://github.com/TKG-afk/ichiji-mensetsu-saishu-mensetsu-no-chigai",
-        "thumbnail":  "./images/pages/ichiji-mensetsu-saishu-mensetsu-no-chigai.png",
-        "createdAt":  "2026-05-28T03:20:47Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "初代マリオ1-1に学ぶ、説明しないチュートリアル設計",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei/",
-        "repoUrl":  "https://github.com/TKG-afk/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei",
-        "thumbnail":  "./images/pages/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei.png",
-        "createdAt":  "2026-05-27T00:37:08Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "Painterベイク前準備と設定",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/beiku-mae-junbi-to-bake-mesh-maps/",
-        "repoUrl":  "https://github.com/TKG-afk/beiku-mae-junbi-to-bake-mesh-maps",
-        "thumbnail":  "./images/pages/beiku-mae-junbi-to-bake-mesh-maps.png",
-        "createdAt":  "2026-05-27T00:23:36Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "Painter投入前チェック",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/painter-tonyu-mae-moderu-junbi-chekku/",
-        "repoUrl":  "https://github.com/TKG-afk/painter-tonyu-mae-moderu-junbi-chekku",
-        "thumbnail":  "./images/pages/painter-tonyu-mae-moderu-junbi-chekku.png",
-        "createdAt":  "2026-05-26T09:04:48Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "第一章 ポートフォリオについて",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu/",
-        "repoUrl":  "https://github.com/TKG-afk/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu",
-        "thumbnail":  "./images/pages/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu.png",
-        "createdAt":  "2026-05-26T01:20:17Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "SPI言語 IT標準15分ドリル",
-        "description":  "IT系SPI試験で標準的な言語分野の長文読解、語句・熟語、空欄補充、文の並び替え、二語関係、文法を40問で練習できる試験対策Webサイト。",
-        "url":  "https://tkg-afk.github.io/spi-gengo-it-hyojun-15fun-drill/",
-        "repoUrl":  "https://github.com/TKG-afk/spi-gengo-it-hyojun-15fun-drill",
-        "thumbnail":  "./images/pages/spi-gengo-it-hyojun-15fun-drill.png",
-        "createdAt":  "2026-05-25T01:58:24Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "27卒就活は早い・続く・AIで差がつく",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku/",
-        "repoUrl":  "https://github.com/TKG-afk/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku",
-        "thumbnail":  "./images/pages/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku.png",
-        "createdAt":  "2026-05-25T01:42:04Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "面接チェック ロールプレイ",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/mensetsu-rorupurei-chekku-shito/",
-        "repoUrl":  "https://github.com/TKG-afk/mensetsu-rorupurei-chekku-shito",
-        "thumbnail":  "./images/pages/mensetsu-rorupurei-chekku-shito.png",
-        "createdAt":  "2026-05-21T05:09:05Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "SPI非言語 20分実戦ドリル",
-        "description":  "IT系SPI試験で標準的な非言語分野の推論・集合・割合・表読み取り・速度・損益・確率を20問で練習できる、正答率リザルトと問題ごとの解説付き試験対策Webサイト。",
-        "url":  "https://tkg-afk.github.io/spi-higengo-20pun-jissen-drill/",
-        "repoUrl":  "https://github.com/TKG-afk/spi-higengo-20pun-jissen-drill",
-        "thumbnail":  "./images/pages/spi-higengo-20pun-jissen-drill.png",
-        "createdAt":  "2026-05-21T03:38:25Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "ゲームクリエイター志望者のためのポートフォリオ講座",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/gemu-kurieita-shibosha-no-tame-no-potoforio-koza/",
-        "repoUrl":  "https://github.com/TKG-afk/gemu-kurieita-shibosha-no-tame-no-potoforio-koza",
-        "thumbnail":  "./images/pages/gemu-kurieita-shibosha-no-tame-no-potoforio-koza.png",
-        "createdAt":  "2026-05-21T01:52:23Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "稜線で立体は決まる",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/ryosen-de-rittai-wa-kimaru/",
-        "repoUrl":  "https://github.com/TKG-afk/ryosen-de-rittai-wa-kimaru",
-        "thumbnail":  "./images/pages/ryosen-de-rittai-wa-kimaru.png",
-        "createdAt":  "2026-05-20T23:48:48Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "初めてSteamでゲームをリリースする人へ",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e/",
-        "repoUrl":  "https://github.com/TKG-afk/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e",
-        "thumbnail":  "./images/pages/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e.png",
-        "createdAt":  "2026-05-19T05:23:36Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "SPI性格診断 20分セルフチェック",
-        "description":  "SPIの性格診断を想定した、約200問の性格傾向セルフチェック。ビジネス上の傾向、円グラフ、長所と弱点の面接想定質問と回答例を表示します。",
-        "url":  "https://tkg-afk.github.io/spi-seikaku-shindan-20pun-serufu-chekku/",
-        "repoUrl":  "https://github.com/TKG-afk/spi-seikaku-shindan-20pun-serufu-chekku",
-        "thumbnail":  "./images/pages/spi-seikaku-shindan-20pun-serufu-chekku.png",
-        "createdAt":  "2026-05-14T05:15:52Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "SPI言語 初心者15分診断",
-        "description":  "SPI言語分野の短時間演習、正答率リザルト、問題ごとの解説を備えた試験対策Webサイト。",
-        "url":  "https://tkg-afk.github.io/spi-gengo-shoshinsha-15fun-shindan/",
-        "repoUrl":  "https://github.com/TKG-afk/spi-gengo-shoshinsha-15fun-shindan",
-        "thumbnail":  "./images/pages/spi-gengo-shoshinsha-15fun-shindan.png",
-        "createdAt":  "2026-05-14T05:06:17Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "IT業界 就活試験対策ガイド",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/it-gyokai-shukatsu-shiken-taisaku-gaido/",
-        "repoUrl":  "https://github.com/TKG-afk/it-gyokai-shukatsu-shiken-taisaku-gaido",
-        "thumbnail":  "./images/pages/it-gyokai-shukatsu-shiken-taisaku-gaido.png",
-        "createdAt":  "2026-05-14T03:47:42Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "ChatGPTで三面図を作成する流れ｜3DCGモデリング向け",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke/",
-        "repoUrl":  "https://github.com/TKG-afk/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke",
-        "thumbnail":  "./images/pages/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke.png",
-        "createdAt":  "2026-05-14T00:10:32Z",
-        "tags":  [
-
-                 ]
-    },
-    {
-        "title":  "面接チェック ロールプレイ",
-        "description":  "GitHub Pages site",
-        "url":  "https://tkg-afk.github.io/mensetsu-chekku-rorupurei/",
-        "repoUrl":  "https://github.com/TKG-afk/mensetsu-chekku-rorupurei",
-        "thumbnail":  "./images/pages/mensetsu-chekku-rorupurei.png",
-        "createdAt":  "2026-05-07T04:40:37Z",
-        "tags":  [
-
-                 ]
-    }
+  {
+    "title": "東京ゲームショウ2026 出展スケジュール共有会",
+    "description": "TGS2026出展のスケジュール、7月・8月の優先事項、学生フォロー体制を教員向けに共有するWEBスライド。",
+    "url": "https://tkg-afk.github.io/tokyo-game-show-2026-shutten-schedule-kyoyukai/",
+    "repoUrl": "https://github.com/TKG-afk/tokyo-game-show-2026-shutten-schedule-kyoyukai",
+    "thumbnail": "./images/pages/tokyo-game-show-2026-shutten-schedule-kyoyukai.png",
+    "createdAt": "2026-07-09T03:15:45Z",
+    "tags": [
+      "TGS2026",
+      "WEBスライド",
+      "教員会議"
+    ]
+  },
+  {
+    "title": "AKMグリップ制作課題",
+    "description": "Grip_lowのモデリング、UV展開、ハイモデル、フロートメッシュ、Substance Painterの質感設定までを確認する授業用Webスライド。",
+    "url": "https://tkg-afk.github.io/akm-grip-seisaku-kadai/",
+    "repoUrl": "https://github.com/TKG-afk/akm-grip-seisaku-kadai",
+    "thumbnail": "./images/pages/akm-grip-seisaku-kadai.png",
+    "createdAt": "2026-07-07T10:49:19Z",
+    "tags": [
+      "3DCG",
+      "Substance Painter",
+      "Webスライド"
+    ]
+  },
+  {
+    "title": "この夏、夢を「動ける目標」に変える",
+    "description": "専門学生・4年制4年生向け。夏休みに夢を具体的な目標と行動計画へ変える、就職対策授業用Webスライド。",
+    "url": "https://tkg-afk.github.io/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru/",
+    "repoUrl": "https://github.com/TKG-afk/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru",
+    "thumbnail": "./images/pages/kono-natsu-yume-wo-ugokeru-mokuhyo-ni-kaeru.png",
+    "createdAt": "2026-07-06T01:09:09Z",
+    "tags": [
+      "就活",
+      "目標設定",
+      "WEBスライド"
+    ]
+  },
+  {
+    "title": "ニュースを「自分の行動」に変える",
+    "description": "専門学校4年生向け。就活情報を応募・ES・ポートフォリオ・面接練習へ変える授業用WEBスライド。",
+    "url": "https://tkg-afk.github.io/nyusu-o-jibun-no-kodo-ni-kaeru/",
+    "repoUrl": "https://github.com/TKG-afk/nyusu-o-jibun-no-kodo-ni-kaeru",
+    "thumbnail": "./images/pages/nyusu-o-jibun-no-kodo-ni-kaeru.png",
+    "createdAt": "2026-07-02T06:29:28Z",
+    "tags": [
+      "就活",
+      "授業",
+      "WEBスライド"
+    ]
+  },
+  {
+    "title": "ポートフォリオのための3Dライティング",
+    "description": "ゲームクリエイター科向け。作品の形・質感・世界観を魅力的に伝える3Dライティング授業用Webスライド。",
+    "url": "https://tkg-afk.github.io/portfolio-no-tame-no-3d-lighting/",
+    "repoUrl": "https://github.com/TKG-afk/portfolio-no-tame-no-3d-lighting",
+    "thumbnail": "./images/pages/portfolio-no-tame-no-3d-lighting.png",
+    "createdAt": "2026-07-01T05:07:30Z",
+    "tags": [
+      "3DCG",
+      "portfolio",
+      "lighting"
+    ]
+  },
+  {
+    "title": "AI時代のゲームクリエイターに求められる力",
+    "description": "専門学校ゲームクリエイター科 4年制3年生向け授業用Webスライド",
+    "url": "https://tkg-afk.github.io/ai-jidai-no-game-kurieita-ni-motomerareru-chikara/",
+    "repoUrl": "https://github.com/TKG-afk/ai-jidai-no-game-kurieita-ni-motomerareru-chikara",
+    "thumbnail": "./images/pages/ai-jidai-no-game-kurieita-ni-motomerareru-chikara.png",
+    "createdAt": "2026-07-01T00:31:16Z",
+    "tags": []
+  },
+  {
+    "title": "『めっちゃカメレオン』はなぜ売れたのか？",
+    "description": "専門学校ゲームクリエイター科向け授業スライド：『めっちゃカメレオン』から学ぶコア体験と学生ゲーム制作",
+    "url": "https://tkg-afk.github.io/meccha-kamereon-wa-naze-ureta-no-ka/",
+    "repoUrl": "https://github.com/TKG-afk/meccha-kamereon-wa-naze-ureta-no-ka",
+    "thumbnail": "./images/pages/meccha-kamereon-wa-naze-ureta-no-ka.png",
+    "createdAt": "2026-06-30T05:00:42Z",
+    "tags": []
+  },
+  {
+    "title": "いまさら聞けない 企業説明会に行くべき理由",
+    "description": "専門学校4年生向け「企業説明会に行くべき理由」授業用Webスライド",
+    "url": "https://tkg-afk.github.io/imasara-kikenai-kigyo-setsumeikai-ni-iku-beki-riyu/",
+    "repoUrl": "https://github.com/TKG-afk/imasara-kikenai-kigyo-setsumeikai-ni-iku-beki-riyu",
+    "thumbnail": "./images/pages/imasara-kikenai-kigyo-setsumeikai-ni-iku-beki-riyu.png",
+    "createdAt": "2026-06-29T05:07:14Z",
+    "tags": []
+  },
+  {
+    "title": "就活は、すでに差がついている｜就職対策授業",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/shukatsu-wa-korekara-honban-dewa-naku-sudeni-sa-ga-tsuiteiru/",
+    "repoUrl": "https://github.com/TKG-afk/shukatsu-wa-korekara-honban-dewa-naku-sudeni-sa-ga-tsuiteiru",
+    "thumbnail": "./images/pages/shukatsu-wa-korekara-honban-dewa-naku-sudeni-sa-ga-tsuiteiru.png",
+    "createdAt": "2026-06-29T01:54:13Z",
+    "tags": []
+  },
+  {
+    "title": "オンライン就活で失敗しない 説明会・面談・面接の準備と行動",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/online-shukatsu-de-shippai-shinai/",
+    "repoUrl": "https://github.com/TKG-afk/online-shukatsu-de-shippai-shinai",
+    "thumbnail": "./images/pages/online-shukatsu-de-shippai-shinai.png",
+    "createdAt": "2026-06-25T02:49:39Z",
+    "tags": []
+  },
+  {
+    "title": "内定確保してから本気の就活へ",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/naitei-kakuho-shite-kara-honki-no-shukatsu-e/",
+    "repoUrl": "https://github.com/TKG-afk/naitei-kakuho-shite-kara-honki-no-shukatsu-e",
+    "thumbnail": "./images/pages/naitei-kakuho-shite-kara-honki-no-shukatsu-e.png",
+    "createdAt": "2026-06-22T01:29:27Z",
+    "tags": []
+  },
+  {
+    "title": "飲み会で信用を落とさない",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/nomikai-de-shinyo-wo-otosanai/",
+    "repoUrl": "https://github.com/TKG-afk/nomikai-de-shinyo-wo-otosanai",
+    "thumbnail": "./images/pages/nomikai-de-shinyo-wo-otosanai.png",
+    "createdAt": "2026-06-18T04:13:05Z",
+    "tags": []
+  },
+  {
+    "title": "人間面接とAI面接 評価はなぜ違うのか？",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka/",
+    "repoUrl": "https://github.com/TKG-afk/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka",
+    "thumbnail": "./images/pages/ningen-mensetsu-to-ai-mensetsu-hyoka-wa-naze-chigau-no-ka.png",
+    "createdAt": "2026-06-18T03:28:18Z",
+    "tags": []
+  },
+  {
+    "title": "自動生成＋手作業で、説得力のある質感に仕上げる",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru/",
+    "repoUrl": "https://github.com/TKG-afk/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru",
+    "thumbnail": "./images/pages/jido-seisei-tesagyo-de-settokuryoku-no-aru-shitsukan-ni-shiageru.png",
+    "createdAt": "2026-06-17T01:48:32Z",
+    "tags": []
+  },
+  {
+    "title": "ポートフォリオ制作 第三章 色彩について",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite/",
+    "repoUrl": "https://github.com/TKG-afk/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite",
+    "thumbnail": "./images/pages/potoforio-seisaku-dai-san-sho-shikisai-ni-tsuite.png",
+    "createdAt": "2026-06-15T08:57:33Z",
+    "tags": []
+  },
+  {
+    "title": "My Web Site Gallery",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/my-web-site-gallery/",
+    "repoUrl": "https://github.com/TKG-afk/my-web-site-gallery",
+    "thumbnail": "./images/pages/my-web-site-gallery.png",
+    "createdAt": "2026-06-15T00:40:45Z",
+    "tags": []
+  },
+  {
+    "title": "面接対策：AI面接にチャレンジ",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/mensetsu-taisaku-ai-mensetsu-ni-charenji/",
+    "repoUrl": "https://github.com/TKG-afk/mensetsu-taisaku-ai-mensetsu-ni-charenji",
+    "thumbnail": "./images/pages/mensetsu-taisaku-ai-mensetsu-ni-charenji.png",
+    "createdAt": "2026-06-11T04:17:12Z",
+    "tags": []
+  },
+  {
+    "title": "合同企業説明会に参加するときのポイント",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point/",
+    "repoUrl": "https://github.com/TKG-afk/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point",
+    "thumbnail": "./images/pages/godo-kigyo-setsumeikai-ni-sanka-suru-toki-no-point.png",
+    "createdAt": "2026-06-10T23:59:58Z",
+    "tags": []
+  },
+  {
+    "title": "ZBrush 生物の皮膚表現",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/zbrush-seibutsu-no-hifu-hyogen/",
+    "repoUrl": "https://github.com/TKG-afk/zbrush-seibutsu-no-hifu-hyogen",
+    "thumbnail": "./images/pages/zbrush-seibutsu-no-hifu-hyogen.png",
+    "createdAt": "2026-06-10T23:39:13Z",
+    "tags": []
+  },
+  {
+    "title": "モデリングのための観察課題",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/moderingu-no-tame-no-kansatsu-kadai/",
+    "repoUrl": "https://github.com/TKG-afk/moderingu-no-tame-no-kansatsu-kadai",
+    "thumbnail": "./images/pages/moderingu-no-tame-no-kansatsu-kadai.png",
+    "createdAt": "2026-06-09T10:55:49Z",
+    "tags": []
+  },
+  {
+    "title": "第二章 レイアウトについて",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/dai-ni-sho-reiauto-ni-tsuite/",
+    "repoUrl": "https://github.com/TKG-afk/dai-ni-sho-reiauto-ni-tsuite",
+    "thumbnail": "./images/pages/dai-ni-sho-reiauto-ni-tsuite.png",
+    "createdAt": "2026-06-08T23:53:24Z",
+    "tags": []
+  },
+  {
+    "title": "2026年6月8日 就職2",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/2026nen-6gatsu-8nichi-shushoku-2/",
+    "repoUrl": "https://github.com/TKG-afk/2026nen-6gatsu-8nichi-shushoku-2",
+    "thumbnail": "./images/pages/2026nen-6gatsu-8nichi-shushoku-2.png",
+    "createdAt": "2026-06-08T01:53:50Z",
+    "tags": []
+  },
+  {
+    "title": "CAB暗号 普通20分ドリル",
+    "description": "IT・SE向けCAB適性試験の暗号分野を、普通レベル39問・20分で練習できる試験対策Webサイト。",
+    "url": "https://tkg-afk.github.io/cab-ango-futsu-20pun-doriru/",
+    "repoUrl": "https://github.com/TKG-afk/cab-ango-futsu-20pun-doriru",
+    "thumbnail": "./images/pages/cab-ango-futsu-20pun-doriru.png",
+    "createdAt": "2026-06-03T07:41:09Z",
+    "tags": []
+  },
+  {
+    "title": "112_tachiki_2",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/kokusairikou_tachiki/",
+    "repoUrl": "https://github.com/TKG-afk/kokusairikou_tachiki",
+    "thumbnail": "./images/pages/kokusairikou_tachiki.png",
+    "createdAt": "2026-06-01T10:20:38Z",
+    "tags": []
+  },
+  {
+    "title": "CAB命令表 普通15分ドリル",
+    "description": "IT・SE向けCAB適性試験の命令表分野を、普通レベル36問・15分で練習できる試験対策Webサイト。",
+    "url": "https://tkg-afk.github.io/cab-meireihyou-futsuu-15pun-doriru/",
+    "repoUrl": "https://github.com/TKG-afk/cab-meireihyou-futsuu-15pun-doriru",
+    "thumbnail": "./images/pages/cab-meireihyou-futsuu-15pun-doriru.png",
+    "createdAt": "2026-06-01T01:28:42Z",
+    "tags": []
+  },
+  {
+    "title": "CAB法則性 普通〜少し難しい15分ドリル",
+    "description": "IT・SE向けCAB適性試験の法則性分野を、普通〜少し難しいレベル40問・15分で練習できる試験対策Webサイト。",
+    "url": "https://tkg-afk.github.io/cab-hosokusei-futsuu-10pun-doriru/",
+    "repoUrl": "https://github.com/TKG-afk/cab-hosokusei-futsuu-10pun-doriru",
+    "thumbnail": "./images/pages/cab-hosokusei-futsuu-10pun-doriru.png",
+    "createdAt": "2026-05-28T04:52:48Z",
+    "tags": []
+  },
+  {
+    "title": "CAB暗算 普通10分ドリル",
+    "description": "IT・SE向けCAB適性試験の暗算分野を、普通レベル50問・10分で練習できる試験対策Webサイト。",
+    "url": "https://tkg-afk.github.io/cab-anzan-futsuu-10pun-doriru/",
+    "repoUrl": "https://github.com/TKG-afk/cab-anzan-futsuu-10pun-doriru",
+    "thumbnail": "./images/pages/cab-anzan-futsuu-10pun-doriru.png",
+    "createdAt": "2026-05-28T04:10:19Z",
+    "tags": []
+  },
+  {
+    "title": "一次面接・最終面接の違い",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/ichiji-mensetsu-saishu-mensetsu-no-chigai/",
+    "repoUrl": "https://github.com/TKG-afk/ichiji-mensetsu-saishu-mensetsu-no-chigai",
+    "thumbnail": "./images/pages/ichiji-mensetsu-saishu-mensetsu-no-chigai.png",
+    "createdAt": "2026-05-28T03:20:47Z",
+    "tags": []
+  },
+  {
+    "title": "初代マリオ1-1に学ぶ、説明しないチュートリアル設計",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei/",
+    "repoUrl": "https://github.com/TKG-afk/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei",
+    "thumbnail": "./images/pages/shodai-mario-1-1-ni-manabu-setsumei-shinai-chutoriaru-sekkei.png",
+    "createdAt": "2026-05-27T00:37:08Z",
+    "tags": []
+  },
+  {
+    "title": "Painterベイク前準備と設定",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/beiku-mae-junbi-to-bake-mesh-maps/",
+    "repoUrl": "https://github.com/TKG-afk/beiku-mae-junbi-to-bake-mesh-maps",
+    "thumbnail": "./images/pages/beiku-mae-junbi-to-bake-mesh-maps.png",
+    "createdAt": "2026-05-27T00:23:36Z",
+    "tags": []
+  },
+  {
+    "title": "Painter投入前チェック",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/painter-tonyu-mae-moderu-junbi-chekku/",
+    "repoUrl": "https://github.com/TKG-afk/painter-tonyu-mae-moderu-junbi-chekku",
+    "thumbnail": "./images/pages/painter-tonyu-mae-moderu-junbi-chekku.png",
+    "createdAt": "2026-05-26T09:04:48Z",
+    "tags": []
+  },
+  {
+    "title": "第一章 ポートフォリオについて",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu/",
+    "repoUrl": "https://github.com/TKG-afk/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu",
+    "thumbnail": "./images/pages/potoforio-wa-sakuhin-o-tsutaeru-sekkeizu.png",
+    "createdAt": "2026-05-26T01:20:17Z",
+    "tags": []
+  },
+  {
+    "title": "SPI言語 IT標準15分ドリル",
+    "description": "IT系SPI試験で標準的な言語分野の長文読解、語句・熟語、空欄補充、文の並び替え、二語関係、文法を40問で練習できる試験対策Webサイト。",
+    "url": "https://tkg-afk.github.io/spi-gengo-it-hyojun-15fun-drill/",
+    "repoUrl": "https://github.com/TKG-afk/spi-gengo-it-hyojun-15fun-drill",
+    "thumbnail": "./images/pages/spi-gengo-it-hyojun-15fun-drill.png",
+    "createdAt": "2026-05-25T01:58:24Z",
+    "tags": []
+  },
+  {
+    "title": "27卒就活は早い・続く・AIで差がつく",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku/",
+    "repoUrl": "https://github.com/TKG-afk/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku",
+    "thumbnail": "./images/pages/27sotsu-shukatsu-wa-hayai-tsuzuku-ai-de-sa-ga-tsuku.png",
+    "createdAt": "2026-05-25T01:42:04Z",
+    "tags": []
+  },
+  {
+    "title": "面接チェック ロールプレイ",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/mensetsu-rorupurei-chekku-shito/",
+    "repoUrl": "https://github.com/TKG-afk/mensetsu-rorupurei-chekku-shito",
+    "thumbnail": "./images/pages/mensetsu-rorupurei-chekku-shito.png",
+    "createdAt": "2026-05-21T05:09:05Z",
+    "tags": []
+  },
+  {
+    "title": "SPI非言語 20分実戦ドリル",
+    "description": "IT系SPI試験で標準的な非言語分野の推論・集合・割合・表読み取り・速度・損益・確率を20問で練習できる、正答率リザルトと問題ごとの解説付き試験対策Webサイト。",
+    "url": "https://tkg-afk.github.io/spi-higengo-20pun-jissen-drill/",
+    "repoUrl": "https://github.com/TKG-afk/spi-higengo-20pun-jissen-drill",
+    "thumbnail": "./images/pages/spi-higengo-20pun-jissen-drill.png",
+    "createdAt": "2026-05-21T03:38:25Z",
+    "tags": []
+  },
+  {
+    "title": "ゲームクリエイター志望者のためのポートフォリオ講座",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/gemu-kurieita-shibosha-no-tame-no-potoforio-koza/",
+    "repoUrl": "https://github.com/TKG-afk/gemu-kurieita-shibosha-no-tame-no-potoforio-koza",
+    "thumbnail": "./images/pages/gemu-kurieita-shibosha-no-tame-no-potoforio-koza.png",
+    "createdAt": "2026-05-21T01:52:23Z",
+    "tags": []
+  },
+  {
+    "title": "稜線で立体は決まる",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/ryosen-de-rittai-wa-kimaru/",
+    "repoUrl": "https://github.com/TKG-afk/ryosen-de-rittai-wa-kimaru",
+    "thumbnail": "./images/pages/ryosen-de-rittai-wa-kimaru.png",
+    "createdAt": "2026-05-20T23:48:48Z",
+    "tags": []
+  },
+  {
+    "title": "初めてSteamでゲームをリリースする人へ",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e/",
+    "repoUrl": "https://github.com/TKG-afk/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e",
+    "thumbnail": "./images/pages/hajimete-steam-de-geemu-wo-ririsu-suru-hito-e.png",
+    "createdAt": "2026-05-19T05:23:36Z",
+    "tags": []
+  },
+  {
+    "title": "SPI性格診断 20分セルフチェック",
+    "description": "SPIの性格診断を想定した、約200問の性格傾向セルフチェック。ビジネス上の傾向、円グラフ、長所と弱点の面接想定質問と回答例を表示します。",
+    "url": "https://tkg-afk.github.io/spi-seikaku-shindan-20pun-serufu-chekku/",
+    "repoUrl": "https://github.com/TKG-afk/spi-seikaku-shindan-20pun-serufu-chekku",
+    "thumbnail": "./images/pages/spi-seikaku-shindan-20pun-serufu-chekku.png",
+    "createdAt": "2026-05-14T05:15:52Z",
+    "tags": []
+  },
+  {
+    "title": "SPI言語 初心者15分診断",
+    "description": "SPI言語分野の短時間演習、正答率リザルト、問題ごとの解説を備えた試験対策Webサイト。",
+    "url": "https://tkg-afk.github.io/spi-gengo-shoshinsha-15fun-shindan/",
+    "repoUrl": "https://github.com/TKG-afk/spi-gengo-shoshinsha-15fun-shindan",
+    "thumbnail": "./images/pages/spi-gengo-shoshinsha-15fun-shindan.png",
+    "createdAt": "2026-05-14T05:06:17Z",
+    "tags": []
+  },
+  {
+    "title": "IT業界 就活試験対策ガイド",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/it-gyokai-shukatsu-shiken-taisaku-gaido/",
+    "repoUrl": "https://github.com/TKG-afk/it-gyokai-shukatsu-shiken-taisaku-gaido",
+    "thumbnail": "./images/pages/it-gyokai-shukatsu-shiken-taisaku-gaido.png",
+    "createdAt": "2026-05-14T03:47:42Z",
+    "tags": []
+  },
+  {
+    "title": "ChatGPTで三面図を作成する流れ｜3DCGモデリング向け",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke/",
+    "repoUrl": "https://github.com/TKG-afk/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke",
+    "thumbnail": "./images/pages/chatgpt-de-sanmenzu-wo-sakusei-suru-nagare-3dcg-moderingu-muke.png",
+    "createdAt": "2026-05-14T00:10:32Z",
+    "tags": []
+  },
+  {
+    "title": "面接チェック ロールプレイ",
+    "description": "GitHub Pages site",
+    "url": "https://tkg-afk.github.io/mensetsu-chekku-rorupurei/",
+    "repoUrl": "https://github.com/TKG-afk/mensetsu-chekku-rorupurei",
+    "thumbnail": "./images/pages/mensetsu-chekku-rorupurei.png",
+    "createdAt": "2026-05-07T04:40:37Z",
+    "tags": []
+  }
 ]
