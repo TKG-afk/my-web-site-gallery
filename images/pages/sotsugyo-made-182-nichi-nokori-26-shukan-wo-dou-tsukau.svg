@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="卒業まで182日。残り26週間をどう使う？">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <rect x="112" y="126" width="110" height="12" rx="6" fill="#d92727"/>
+  <text x="112" y="230" fill="#d92727" font-family="Yu Gothic, Meiryo, sans-serif" font-size="36" font-weight="700" letter-spacing="8">夏休み明け初回　就職対策</text>
+  <text x="112" y="410" fill="#16191d" font-family="Yu Gothic, Meiryo, sans-serif" font-size="105" font-weight="800">卒業まで182日。</text>
+  <text x="112" y="555" fill="#d92727" font-family="Yu Gothic, Meiryo, sans-serif" font-size="105" font-weight="800">残り26週間</text>
+  <text x="855" y="555" fill="#16191d" font-family="Yu Gothic, Meiryo, sans-serif" font-size="105" font-weight="800">をどう使う？</text>
+  <line x1="112" y1="655" x2="1488" y2="655" stroke="#d7dadd" stroke-width="4"/>
+  <text x="112" y="746" fill="#5b6169" font-family="Yu Gothic, Meiryo, sans-serif" font-size="42" font-weight="700">同じ27卒世代の参考データから、今週の行動を決める。</text>
+  <text x="112" y="820" fill="#5b6169" font-family="Arial, sans-serif" font-size="28">WEB SLIDES / 90 MINUTES</text>
+</svg>
