@@ -1,5 +1,23 @@
 [
   {
+    "title": "人体スカルプト「人差し指」｜解剖から形をつくる",
+    "description": "人体スカルプト「人差し指」：解剖から形をつくる41枚のWEBスライド教材",
+    "url": "https://tkg-afk.github.io/shiwa-ga-nakutemo-yubi-ni-mieru/",
+    "repoUrl": "https://github.com/TKG-afk/shiwa-ga-nakutemo-yubi-ni-mieru",
+    "thumbnail": "./images/pages/shiwa-ga-nakutemo-yubi-ni-mieru.png",
+    "createdAt": "2026-09-03T00:08:16Z",
+    "tags": []
+  },
+  {
+    "title": "ゲームクリエイタータイプ診断",
+    "description": "Game creator aptitude diagnosis site",
+    "url": "https://tkg-afk.github.io/game-creator-tekisei-shindan/",
+    "repoUrl": "https://github.com/TKG-afk/game-creator-tekisei-shindan",
+    "thumbnail": "./images/pages/game-creator-tekisei-shindan.png",
+    "createdAt": "2026-07-29T23:09:26Z",
+    "tags": []
+  },
+  {
     "title": "東京ゲームショウ2026 出展スケジュール共有会",
     "description": "TGS2026出展のスケジュール、7月・8月の優先事項、学生フォロー体制を教員向けに共有するWEBスライド。",
     "url": "https://tkg-afk.github.io/tokyo-game-show-2026-shutten-schedule-kyoyukai/",
