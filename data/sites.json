@@ -1,5 +1,14 @@
 [
   {
+    "title": "Maya ハードサーフェスモデリング",
+    "description": "専門学生向け。湾曲したマガジン状ハードサーフェスモデルを題材に、観察からBend、Bevel、トポロジー確認までを学ぶ25枚のWebスライド教材。",
+    "url": "https://tkg-afk.github.io/maya-hard-surface-modeling/",
+    "repoUrl": "https://github.com/TKG-afk/maya-hard-surface-modeling",
+    "thumbnail": "./images/pages/maya-hard-surface-modeling.svg",
+    "createdAt": "2026-09-08T02:45:20Z",
+    "tags": ["3DCG", "Maya", "ハードサーフェス", "Webスライド"]
+  },
+  {
     "title": "卒業まで182日。残り26週間をどう使う？",
     "description": "専門学校の卒業年次向け。夏休み明けに現在地を振り返り、卒業・入社までの行動を逆算する90分の就職対策WEBスライド。",
     "url": "https://tkg-afk.github.io/sotsugyo-made-182-nichi-nokori-26-shukan-wo-dou-tsukau/",
