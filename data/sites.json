@@ -1,21 +1,43 @@
 [
   {
+    "title": "進級制作 2026 → 2027",
+    "description": "ゲームクリエイター科2年生向け。4作品の制作と就職活動用ポートフォリオ完成までを逆算する全20枚のWebスライド。",
+    "url": "https://tkg-afk.github.io/shinkyu-seisaku-2026-2027/",
+    "repoUrl": "https://github.com/TKG-afk/shinkyu-seisaku-2026-2027",
+    "thumbnail": "./images/pages/shinkyu-seisaku-2026-2027.png",
+    "createdAt": "2026-09-30T23:20:58Z",
+    "tags": [
+      "3DCG",
+      "進級制作",
+      "ポートフォリオ"
+    ]
+  },
+  {
     "title": "Maya ハードサーフェスモデリング",
     "description": "専門学生向け。湾曲したマガジン状ハードサーフェスモデルを題材に、観察からBend、Bevel、トポロジー確認までを学ぶ25枚のWebスライド教材。",
     "url": "https://tkg-afk.github.io/maya-hard-surface-modeling/",
     "repoUrl": "https://github.com/TKG-afk/maya-hard-surface-modeling",
-    "thumbnail": "./images/pages/maya-hard-surface-modeling.svg",
+    "thumbnail": "./images/pages/maya-hard-surface-modeling.png",
     "createdAt": "2026-09-08T02:45:20Z",
-    "tags": ["3DCG", "Maya", "ハードサーフェス", "Webスライド"]
+    "tags": [
+      "3DCG",
+      "Maya",
+      "ハードサーフェス",
+      "Webスライド"
+    ]
   },
   {
     "title": "卒業まで182日。残り26週間をどう使う？",
     "description": "専門学校の卒業年次向け。夏休み明けに現在地を振り返り、卒業・入社までの行動を逆算する90分の就職対策WEBスライド。",
     "url": "https://tkg-afk.github.io/sotsugyo-made-182-nichi-nokori-26-shukan-wo-dou-tsukau/",
     "repoUrl": "https://github.com/TKG-afk/sotsugyo-made-182-nichi-nokori-26-shukan-wo-dou-tsukau",
-    "thumbnail": "./images/pages/sotsugyo-made-182-nichi-nokori-26-shukan-wo-dou-tsukau.svg",
+    "thumbnail": "./images/pages/sotsugyo-made-182-nichi-nokori-26-shukan-wo-dou-tsukau.png",
     "createdAt": "2026-09-03T03:38:48Z",
-    "tags": ["就活", "卒業年次", "WEBスライド"]
+    "tags": [
+      "就活",
+      "卒業年次",
+      "WEBスライド"
+    ]
   },
   {
     "title": "人体スカルプト「人差し指」｜解剖から形をつくる",
