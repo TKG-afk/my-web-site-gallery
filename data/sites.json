@@ -1,5 +1,19 @@
 [
   {
+    "title": "Godot EngineとAIでデザイナーでもゲームが作れる！",
+    "description": "ゲームクリエイター科4年生向け。GodotとCodexの接続、MCPの確認、実制作の依頼方法を学ぶ19枚の日本語Webスライド。",
+    "url": "https://tkg-afk.github.io/godot-engine-to-ai-de-desaina-demo/",
+    "repoUrl": "https://github.com/TKG-afk/godot-engine-to-ai-de-desaina-demo",
+    "thumbnail": "./images/pages/godot-engine-to-ai-de-desaina-demo.png",
+    "createdAt": "2026-10-01T04:03:34Z",
+    "tags": [
+      "Godot",
+      "Codex",
+      "MCP",
+      "授業用Webスライド"
+    ]
+  },
+  {
     "title": "AIエージェントとUnity CLI Loopでデザイナーでもゲームが作れる！",
     "description": "ゲームクリエイター科4年生向け。AIエージェントとUnity CLI Loopを使い、Unityの導入・接続確認・小さな制作指示までを45分で学ぶ日本語Webスライド。",
     "url": "https://tkg-afk.github.io/ai-agent-unity-cli-loop-designers/",
