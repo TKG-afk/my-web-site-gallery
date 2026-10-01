@@ -1,5 +1,19 @@
 [
   {
+    "title": "AIエージェントとUnity CLI Loopでデザイナーでもゲームが作れる！",
+    "description": "ゲームクリエイター科4年生向け。AIエージェントとUnity CLI Loopを使い、Unityの導入・接続確認・小さな制作指示までを45分で学ぶ日本語Webスライド。",
+    "url": "https://tkg-afk.github.io/ai-agent-unity-cli-loop-designers/",
+    "repoUrl": "https://github.com/TKG-afk/ai-agent-unity-cli-loop-designers",
+    "thumbnail": "./images/pages/ai-agent-unity-cli-loop-designers.png",
+    "createdAt": "2026-10-01T03:52:02Z",
+    "tags": [
+      "Unity",
+      "AIエージェント",
+      "Unity CLI Loop",
+      "授業用Webスライド"
+    ]
+  },
+  {
     "title": "進級制作 2026 → 2027",
     "description": "ゲームクリエイター科2年生向け。4作品の制作と就職活動用ポートフォリオ完成までを逆算する全20枚のWebスライド。",
     "url": "https://tkg-afk.github.io/shinkyu-seisaku-2026-2027/",
