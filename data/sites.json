@@ -1,11 +1,29 @@
 [
   {
+    "title": "就職活動は、もう始まっている。",
+    "description": "ゲームクリエイター科の学生向け。来年度の就職活動に向けて、今から行動を始めるためのWebスライド。",
+    "url": "https://tkg-afk.github.io/shushoku-katsudo-wa-mo-hajimatteiru/",
+    "repoUrl": "https://github.com/TKG-afk/shushoku-katsudo-wa-mo-hajimatteiru",
+    "thumbnail": "./images/pages/shushoku-katsudo-wa-mo-hajimatteiru.png",
+    "createdAt": "2026-10-07T23:23:07Z",
+    "tags": ["就活", "ゲームクリエイター", "Webスライド"]
+  },
+  {
+    "title": "企業研究をしよう！",
+    "description": "ゲームクリエイター科向け。就職集中講座の参加企業5社を事前に調べ、質問と志望動機につなげる15枚のWebスライド。",
+    "url": "https://tkg-afk.github.io/kigyo-kenkyu-o-shiyou/",
+    "repoUrl": "https://github.com/TKG-afk/kigyo-kenkyu-o-shiyou",
+    "thumbnail": "./images/pages/kigyo-kenkyu-o-shiyou.png",
+    "createdAt": "2026-10-07T23:23:00Z",
+    "tags": ["企業研究", "就活", "ゲームクリエイター", "Webスライド"]
+  },
+  {
     "title": "Godot EngineとAIでデザイナーでもゲームが作れる！",
     "description": "ゲームクリエイター科4年生向け。GodotとCodexの接続、MCPの確認、実制作の依頼方法を学ぶ19枚の日本語Webスライド。",
     "url": "https://tkg-afk.github.io/godot-engine-to-ai-de-desaina-demo/",
     "repoUrl": "https://github.com/TKG-afk/godot-engine-to-ai-de-desaina-demo",
     "thumbnail": "./images/pages/godot-engine-to-ai-de-desaina-demo.png",
-    "createdAt": "2026-10-01T04:03:34Z",
+    "createdAt": "2026-10-01T04:03:21Z",
     "tags": [
       "Godot",
       "Codex",
