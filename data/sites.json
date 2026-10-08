@@ -1,12 +1,29 @@
 [
   {
+    "url": "https://tkg-afk.github.io/game-gaisha-ga-motomeru-jinzai-toha/",
+    "repoUrl": "https://github.com/TKG-afk/game-gaisha-ga-motomeru-jinzai-toha",
+    "createdAt": "2026-10-08T00:42:10Z",
+    "title": "ゲーム会社が求める人材とは？",
+    "description": "就職集中講座のパネルディスカッションから、ポートフォリオ・人柄・誠実さと今日からの行動を学ぶ17枚のWebスライド。",
+    "tags": [
+      "就活",
+      "ゲームクリエイター",
+      "Webスライド"
+    ],
+    "thumbnail": "./images/pages/game-gaisha-ga-motomeru-jinzai-toha.png"
+  },
+  {
     "title": "就職活動は、もう始まっている。",
     "description": "ゲームクリエイター科の学生向け。来年度の就職活動に向けて、今から行動を始めるためのWebスライド。",
     "url": "https://tkg-afk.github.io/shushoku-katsudo-wa-mo-hajimatteiru/",
     "repoUrl": "https://github.com/TKG-afk/shushoku-katsudo-wa-mo-hajimatteiru",
     "thumbnail": "./images/pages/shushoku-katsudo-wa-mo-hajimatteiru.png",
     "createdAt": "2026-10-07T23:23:07Z",
-    "tags": ["就活", "ゲームクリエイター", "Webスライド"]
+    "tags": [
+      "就活",
+      "ゲームクリエイター",
+      "Webスライド"
+    ]
   },
   {
     "title": "企業研究をしよう！",
@@ -15,7 +32,12 @@
     "repoUrl": "https://github.com/TKG-afk/kigyo-kenkyu-o-shiyou",
     "thumbnail": "./images/pages/kigyo-kenkyu-o-shiyou.png",
     "createdAt": "2026-10-07T23:23:00Z",
-    "tags": ["企業研究", "就活", "ゲームクリエイター", "Webスライド"]
+    "tags": [
+      "企業研究",
+      "就活",
+      "ゲームクリエイター",
+      "Webスライド"
+    ]
   },
   {
     "title": "Godot EngineとAIでデザイナーでもゲームが作れる！",
