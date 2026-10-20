@@ -1,5 +1,19 @@
 [
   {
+    "title": "12月・3月が勝負。",
+    "description": "28卒デザイナー志望者向け。12月回への提出、目標ポートフォリオの研究、12月・3月の制作計画を学ぶ全13枚のWEBスライド。",
+    "url": "https://tkg-afk.github.io/12gatsu-3gatsu-ga-shobu/",
+    "repoUrl": "https://github.com/TKG-afk/12gatsu-3gatsu-ga-shobu",
+    "createdAt": "2026-10-19T23:59:47Z",
+    "thumbnail": "./images/pages/12gatsu-3gatsu-ga-shobu.png",
+    "tags": [
+      "ポートフォリオ",
+      "就活",
+      "28卒",
+      "Webスライド"
+    ]
+  },
+  {
     "url": "https://tkg-afk.github.io/game-gaisha-ga-motomeru-jinzai-toha/",
     "repoUrl": "https://github.com/TKG-afk/game-gaisha-ga-motomeru-jinzai-toha",
     "createdAt": "2026-10-08T00:42:10Z",
