@@ -1,5 +1,19 @@
 [
   {
+    "title": "三面図は、形を共有するための資料",
+    "description": "AIによる三面図作成・整合性の添削・Mayaへの活用を学ぶ全13枚のWEBスライド。",
+    "url": "https://tkg-afk.github.io/sanmenzu-wa-katachi-wo-kyoyu-suru-tame-no-shiryo/",
+    "repoUrl": "https://github.com/TKG-afk/sanmenzu-wa-katachi-wo-kyoyu-suru-tame-no-shiryo",
+    "createdAt": "2026-11-18T00:25:51Z",
+    "thumbnail": "./images/pages/sanmenzu-wa-katachi-wo-kyoyu-suru-tame-no-shiryo.png",
+    "tags": [
+      "3DCG",
+      "三面図",
+      "AI",
+      "Webスライド"
+    ]
+  },
+  {
     "title": "12月・3月が勝負。",
     "description": "28卒デザイナー志望者向け。12月回への提出、目標ポートフォリオの研究、12月・3月の制作計画を学ぶ全13枚のWEBスライド。",
     "url": "https://tkg-afk.github.io/12gatsu-3gatsu-ga-shobu/",
